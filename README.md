@@ -55,7 +55,7 @@ Every component in the system is categorized by the **Layered Memory Interface**
 ## 📂 The MIND File System
 
 The engine separates **Immutable Code (DNA)** from **Living Experience (Memory)**.
-
+```
 MIND/
 ├── DNA/                 # The Immutable Primitives
 │   ├── Primitives/      # The 6 Archetypes (Ivy, Morgan, etc.)
@@ -72,6 +72,7 @@ MIND/
 └── MEMORY/              # The Living Record
     ├── short_term/      # Active Context Window
     └── logs/            # Tokenized Emoji Logs ([🧨] -> [🌊])
+```
 
 ---
 
